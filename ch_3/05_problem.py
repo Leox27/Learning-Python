@@ -2,8 +2,8 @@
 
 name = str(input("Enter your name: "))
 
-# print("Good Afternoon", name)
+print("Good Afternoon", name)
 # OR
-# print(f"Gppd Afternoon {name}")
+print(f"Gppd Afternoon {name}")
 # OR
-# print("Good Afternoon" + " " + name + "")
+print("Good Afternoon" + " " + name + "")

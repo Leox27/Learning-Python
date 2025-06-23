@@ -1,7 +1,7 @@
 name = "mayur Jadhav"
 num = 1
 print("1.", len(name))
-print("2.", name.endswith("ayur"))
+print("2.", name.endswith("v"))
 print("3.",name.startswith("Mayu"))
 print("4.",name.capitalize())
 print("5.",name.upper())
@@ -14,4 +14,3 @@ print("9.",replaced_name)
 
 print("10.", name.encode())
 print("11.", name.format())
-
