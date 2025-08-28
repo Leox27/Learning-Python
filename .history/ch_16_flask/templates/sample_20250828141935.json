@@ -1,0 +1,6 @@
+[
+  {"name": "item", "description": "This is a new item"},
+  {"name": "updated item", "description": "This is an updated item"}
+]
+
+// https://www.postman.com/postman/postman-public-workspace/request/create?requestId=77fcba4c-01d2-4321-a33e-3e473e6f4396

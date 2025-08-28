@@ -1,0 +1,15 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def webpage():
+    return "Welcome to the my PortfolioMy name is Mayur Jadhav"
+
+@app.route("/index")
+def index():
+    return "Index page"
+
+if __name__ == "__main__":
+
+    app.run(debug=True)
